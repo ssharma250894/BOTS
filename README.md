@@ -1,1 +1,1 @@
-# BOTS-v3-Security-Analytics-Lab-with-Splunk
+# BOTS : Security Analytics Lab with Splunk
